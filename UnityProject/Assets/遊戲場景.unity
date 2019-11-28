@@ -592,6 +592,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   jump: 100
   dead: 0
+  goScore: {fileID: 1398995251}
+  goGM: {fileID: 2139400344}
 --- !u!50 &235331181
 Rigidbody2D:
   serializedVersion: 4
@@ -1731,6 +1733,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   open: 1
+  score: 0
 --- !u!1 &2139400344
 GameObject:
   m_ObjectHideFlags: 0
